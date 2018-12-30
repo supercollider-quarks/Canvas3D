@@ -145,7 +145,7 @@ argument:: func
 Animation callback. This function is called once for each frame, and is passed the frame count as argument.
 
 discussion::
-See link::#animated_canvas:: example below.
+See link::#Animated canvas:: example below.
 
 EXAMPLES::
 subsection:: Hello cube
